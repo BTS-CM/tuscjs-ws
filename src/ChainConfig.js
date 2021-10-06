@@ -28,6 +28,18 @@ var config = {
       address_prefix: "FEW",
       chain_id:
         "1cfde7c388b9e8ac06462d68aadbd966b58f88797637d9af805b4560b0e9661e"
+    },
+    TUSC: {
+      core_asset: "TUSC",
+      address_prefix: "TUSC",
+      chain_id:
+        "eb938e2a955e39e335120d0a99f3b9f8c04a9ed5690275ea5037d6bbadfc6cf3"
+    },
+    TUSC_Test: {
+      core_asset: "TUSC",
+      address_prefix: "TUSC",
+      chain_id:
+        "20ef1e234daf7844e4e8cd03423d5ae80cc0415319a4e5984cf302bf6cc00a1b"
     }
   },
 
